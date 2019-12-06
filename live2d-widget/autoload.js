@@ -1,5 +1,5 @@
 //注意：live2d_path参数应使用绝对路径
-const live2d_path = "https://github.com/ValentJ/-Quote/live2d-widget/";
+const live2d_path = "https://github.com/ValentJ/-Quote/tree/master/live2d-widget";
 //const live2d_path = "/live2d-widget/";
 
 //封装异步加载资源的方法
