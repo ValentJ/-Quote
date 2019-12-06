@@ -43,7 +43,7 @@ function loadWidget(waifuPath, apiPath) {
 			Live2D.captureFrame = true;
 		});
 		document.querySelector("#waifu-tool .fa-info-circle").addEventListener("click", () => {
-			open("https://github.com/ValentJ/-Quote/live2d-widget");
+			open("https://github.com/ValentJ/valentj.github.io");
 		});
 		document.querySelector("#waifu-tool .fa-times").addEventListener("click", () => {
 			localStorage.setItem("waifu-display", Date.now());
